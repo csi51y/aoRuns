@@ -41,6 +41,7 @@ class SearchName {
 		
 		ind = a - 1;
 		System.out.println(nameHero[ind]);
+		int nullVar;
 	}
 	
 }
